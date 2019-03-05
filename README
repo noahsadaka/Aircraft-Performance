@@ -1,0 +1,8 @@
+This repository contains scripts used in Aerospace Vehicle Performance.
+
+5_ACPerf_data_thrust.xls contains some thrust data needed to determine climb
+rates
+
+Assignments_345.m solves for assignments 3, 4, and 5. All three assignments
+use a flight plan and different aerodynamic and performance characteristics
+are calculated throughout the flight.
